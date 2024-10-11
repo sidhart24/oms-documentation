@@ -23,6 +23,7 @@
   * [Order Fulfillment](fulfillment/shipOrders.md)
   * [Service Products](fulfillment/service-products.md)
   * [Kit Products](fulfillment/kit-products.md)
+  * [Gift Card Activation](documents/store-operations/gift-card.md).
   * [Rejection](fulfillment/rejection.md)
   * [Picking App](fulfillment/pickingApp.md)
   * [CSV Support](fulfillment/csvSupport.md)
